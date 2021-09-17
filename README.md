@@ -46,7 +46,6 @@ Explore sample apps and learn about their tools and configurations.
       <a href="https://trailhead.salesforce.com/content/learn/projects/quick-start-lwc-recipes-app">Quick Start: Explore the LWC Recipes Sample App</a>
       <br/>
       <br/>
-      <br/>
     </div>
   </td>
 </tr>
