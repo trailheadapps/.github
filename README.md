@@ -146,7 +146,7 @@ Explore sample apps and learn about their features, tools, and configurations.
     <br/>
     <details>
       <summary><b>Description and Features</b></summary>
-      <p>Ready to Fly is a sample travel approval app that showcases the power of Slack when integrated with the Salesforce Platform. View and modify Salesforce data directly from a custom Slack app.</p>
+      <p>Ready to Fly is a Slack sample app that manages travel approvals. The app showcases the power of Slack when integrated with the Salesforce Platform and lets you view and modify Salesforce data directly from a custom Slack app.</p>
       <b>Features</b><br/>
       <p>
         <code>Slack</code>, <code>Salesforce</code>, <code>Node.js</code>, <code>Heroku</code>
