@@ -17,18 +17,22 @@ Explore sample apps and learn about their features, tools and configurations.
     <img src="https://repository-images.githubusercontent.com/161484161/a8656800-99e5-11ea-8897-3468b6e74197" alt="Repository image" width="400"/>
     <br/>
     <br/>
-    <b>Description</b><br/>
-    <p>Sample retail application. This application helps E-Bikes, a fictitious electric bicycle manufacturer, manage their products and reseller orders using a rich User Experience. Explore this application, that also integrates with Salesfoce Communities, and learn how to build rich User Experiences with Lightning Web Components using different data access strategies.</p>
-    <b>Features</b><br/>
-    <p>
-      <code>Lightning Web Components</code>, <code>Apex</code>, <code>Experience Cloud</code>, <code>Lightning Data Service</code>, <code>Lightning Message Service</code>, <code>UTAM tests</code>
-    </p>
-    <b>Trailhead Content</b><br/>
-    <div>
-      <img src="https://res.cloudinary.com/hy4kyit2a/f_auto,fl_lossy,q_70,w_50/learn/projects/quick-start-ebikes-sample-app/a11bf85d136053cdb4745123c4d0ae61_badge.png" align="left" alt="Trailhead Badge"/>
-      <a href="https://trailhead.salesforce.com/en/content/learn/projects/quick-start-ebikes-sample-app">Quick Start: Explore the E-Bikes Sample App</a>
-      <br/>
-    </div>
+    <details>
+      <summary>Description and Features</summary>
+
+      <p>Sample retail application. This application helps E-Bikes, a fictitious electric bicycle manufacturer, manage their products and reseller orders using a rich User Experience. Explore this application, that also integrates with Salesfoce Communities, and learn how to build rich User Experiences with Lightning Web Components using different data access strategies.</p>
+      <b>Features</b><br/>
+      <p>
+        <code>Lightning Web Components</code>, <code>Apex</code>, <code>Experience Cloud</code>, <code>Lightning Data Service</code>, <code>Lightning Message Service</code>, <code>UTAM tests</code>
+      </p>
+      <b>Trailhead Content</b><br/>
+      <div>
+        <img src="https://res.cloudinary.com/hy4kyit2a/f_auto,fl_lossy,q_70,w_50/learn/projects/quick-start-ebikes-sample-app/a11bf85d136053cdb4745123c4d0ae61_badge.png" align="left" alt="Trailhead Badge"/>
+        <a href="https://trailhead.salesforce.com/en/content/learn/projects/quick-start-ebikes-sample-app">Quick Start: Explore the E-Bikes Sample App</a>
+        <br/>
+      </div>
+    </details>
+
   </td>
   <!-- LWC Recipes -->
   <td valign="top">
