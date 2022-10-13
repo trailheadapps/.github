@@ -1,6 +1,6 @@
 # Trailhead Sample Apps
 
-Explore sample apps and learn about their features, tools and configurations.
+Explore sample apps and learn about their features, tools, and configurations.
 
 <div>
     <img src="https://res.cloudinary.com/hy4kyit2a/f_auto,fl_lossy,q_70,w_60/learn/trails/discover-trailhead-sample-apps/ad426c1c8028c41cee06aa57f9b6795f_icon.png" align="left" alt="Trailhead Badge"/>
@@ -19,7 +19,7 @@ Explore sample apps and learn about their features, tools and configurations.
     <br/>
     <details>
       <summary><b>Description and Features</b></summary>
-      <p>Sample retail application. This application helps E-Bikes, a fictitious electric bicycle manufacturer, manage their products and reseller orders using a rich User Experience. Explore this application, that also integrates with Salesfoce Communities, and learn how to build rich User Experiences with Lightning Web Components using different data access strategies.</p>
+      <p>Sample retail application. This application helps E-Bikes, a fictitious electric bicycle manufacturer, manage their products and reseller orders using a rich User Experience. Explore this application, that also integrates with Experience Cloud, and learn how to build rich User Experiences with Lightning Web Components using different data access strategies.</p>
       <b>Features</b><br/>
       <p>
         <code>Lightning Web Components</code>, <code>Apex</code>, <code>Experience Cloud</code>, <code>Lightning Data Service</code>, <code>Lightning Message Service</code>, <code>UTAM tests</code>
