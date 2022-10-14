@@ -172,6 +172,12 @@ Explore sample apps and learn about their features, tools, and configurations.
       <p>
         <code>Salesforce Functions</code>, <code>Elastic Scale</code>, <code>Node.js</code>, <code>JavaScript</code>, <code>Java</code>, <code>3rd Party Libraries</code>
       </p>
+      <b>Trailhead Content</b><br/>
+      <div>
+        <img src="https://res.cloudinary.com/hy4kyit2a/f_auto,fl_lossy,q_70,w_50/learn/projects/quick-start-functions-recipes-app/63ea10a9332dec5f4dd381cc28240730_badge.png" align="left" alt="Trailhead Badge"/>
+        <a href="https://trailhead.salesforce.com/content/learn/projects/quick-start-functions-recipes-app">Quick Start: Explore the Functions Recipes Sample App</a>
+        <br/>
+      </div>
     </details>
   </td>
 </tr>
