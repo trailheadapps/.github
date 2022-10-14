@@ -5,7 +5,7 @@ Explore sample apps and learn about their features, tools, and configurations.
 <div>
     <img src="https://res.cloudinary.com/hy4kyit2a/f_auto,fl_lossy,q_70,w_60/learn/trails/discover-trailhead-sample-apps/ad426c1c8028c41cee06aa57f9b6795f_icon.png" align="left" alt="Trailhead Badge"/>
     <br/>
-    <p><b><a href="https://trailhead.salesforce.com/en/content/learn/projects/quick-start-explore-the-automation-comps-sample-app">Discover Trailhead Sample Apps</a></b></p>
+    <p><b><a href="https://trailhead.salesforce.com/content/learn/trails/discover-trailhead-sample-apps">Discover Trailhead Sample Apps</a></b></p>
     <br/>
 </div>
 
