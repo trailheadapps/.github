@@ -1,6 +1,12 @@
 # Trailhead Sample Apps
 
-These sample apps show what you can build on the Salesforce platform and are continuously updated to incorporate the latest features and best practices. As reference apps, they are not intended for production, but are a great way to learn. Brought to you by the <a href="https://developer.salesforce.com">Salesforce Developers</a> team! 
+<p>
+  These sample apps show what you can build on the Salesforce platform and are continuously updated to incorporate the latest features and best practices. As reference apps, they are not intended for production, but are a great way to learn.
+</p> 
+
+<p>
+  Brought to you by the <a href="https://developer.salesforce.com">Salesforce Developers</a> team!
+</p>
 
 <div>
     <img src="https://res.cloudinary.com/hy4kyit2a/f_auto,fl_lossy,q_70,w_60/learn/trails/discover-trailhead-sample-apps/ad426c1c8028c41cee06aa57f9b6795f_icon.png" align="left" alt="Trailhead Badge"/>
