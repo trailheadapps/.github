@@ -5,7 +5,7 @@ These sample apps show what you can build on the Salesforce platform and are con
 <div>
     <img src="https://res.cloudinary.com/hy4kyit2a/f_auto,fl_lossy,q_70,w_60/learn/trails/discover-trailhead-sample-apps/ad426c1c8028c41cee06aa57f9b6795f_icon.png" align="left" alt="Trailhead Badge"/>
     <br/>
-    <p><b><a href="https://trailhead.salesforce.com/en/content/learn/projects/quick-start-explore-the-automation-comps-sample-app">Discover Trailhead Sample Apps</a></b></p>
+    <p><b><a href="https://trailhead.salesforce.com/content/learn/trails/discover-trailhead-sample-apps">Discover Trailhead Sample Apps</a></b></p>
     <br/>
 </div>
 
@@ -172,6 +172,12 @@ These sample apps show what you can build on the Salesforce platform and are con
       <p>
         <code>Salesforce Functions</code>, <code>Elastic Scale</code>, <code>Node.js</code>, <code>JavaScript</code>, <code>Java</code>, <code>3rd Party Libraries</code>
       </p>
+      <b>Trailhead Content</b><br/>
+      <div>
+        <img src="https://res.cloudinary.com/hy4kyit2a/f_auto,fl_lossy,q_70,w_50/learn/projects/quick-start-functions-recipes-app/63ea10a9332dec5f4dd381cc28240730_badge.png" align="left" alt="Trailhead Badge"/>
+        <a href="https://trailhead.salesforce.com/content/learn/projects/quick-start-functions-recipes-app">Quick Start: Explore the Functions Recipes Sample App</a>
+        <br/>
+      </div>
     </details>
   </td>
 </tr>
