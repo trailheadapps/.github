@@ -144,23 +144,23 @@
   </td>
 </tr>
 <tr>
-  <!-- Ready to Fly -->
+  <!-- Easy Spaces -->
   <td valign="top">
-    <h2><a href="https://github.com/trailheadapps/ready-to-fly">Ready to Fly</a></h2>
-    <img src="https://repository-images.githubusercontent.com/457704692/333b906e-aa2a-421c-92cd-deef621b7dce" alt="Repository image" width="400"/>
+    <h2><a href="https://github.com/trailheadapps/easy-spaces-lwc">Easy Spaces</a></h2>
+    <img src="https://repository-images.githubusercontent.com/161492341/6f61f700-b068-11ea-95e4-3a455dd21cc8" alt="Repository image" width="400"/>
     <br/>
     <br/>
     <details>
       <summary><b>Description and Features</b></summary>
-      <p>Ready to Fly is a Slack sample app that manages travel approvals. The app showcases the power of Slack when integrated with the Salesforce Platform and lets you view and modify Salesforce data directly from a custom Slack app.</p>
+      <p>Sample event management application. Easy Spaces is a fictitious event management company. This application helps Easy Spaces event coordinators manage reservations and find the right theme for their customers. Regardless of the industry you work in, this app demonstrates how to build flexible, user-centric experiences with dynamic flows, Flow Actions, and object-agnostic Lightning components. This app also demonstrates how to structure your source code for modular distribution using unlocked packages.</p>
       <b>Features</b><br/>
       <p>
-        <code>Slack</code>, <code>Salesforce</code>, <code>Node.js</code>, <code>Heroku</code>
+        <code>Lightning Web Components</code>, <code>Unlocked packages</code>, <code>Modular app design</code>, <code>Object-agnostic components</code>, <code>Flow</code>, <code>Local Actions</code>, <code>Lightning Console</code>, <code>Lightning Console JavaScript APIs</code>
       </p>
       <b>Trailhead Content</b><br/>
       <div>
-        <img src="https://res.cloudinary.com/hy4kyit2a/f_auto,fl_lossy,q_70,w_50/learn/projects/explore-the-ready-to-fly-sample-app-th/e71bcc6203b6a21f16f141634a2fed27_badge.png" align="left" alt="Trailhead Badge"/>
-        <a href="https://trailhead.salesforce.com/content/learn/projects/explore-the-ready-to-fly-sample-app-th">Explore the Ready to Fly Sample App</a>
+        <img src="https://res.cloudinary.com/hy4kyit2a/f_auto,fl_lossy,q_70,w_50/learn/projects/quick-start-explore-the-easyspaces-sample-app/84b2c4402906f1412160587d9f5c2e1e_badge.png" align="left" alt="Trailhead Badge"/>
+        <a href="https://trailhead.salesforce.com/content/learn/projects/quick-start-explore-the-easyspaces-sample-app">Quick Start: Explore the Easy Spaces Sample App</a>
         <br/>
       </div>
     </details>
@@ -188,23 +188,23 @@
   </td>
 </tr>
 <tr>
-  <!-- Easy Spaces -->
+  <!-- Automation Components -->
   <td valign="top">
-    <h2><a href="https://github.com/trailheadapps/easy-spaces-lwc">Easy Spaces</a></h2>
-    <img src="https://repository-images.githubusercontent.com/161492341/6f61f700-b068-11ea-95e4-3a455dd21cc8" alt="Repository image" width="400"/>
+    <h2><a href="https://github.com/trailheadapps/automation-components">Automation Components</a></h2>
+    <img src="https://repository-images.githubusercontent.com/262042844/f2e5e500-99e3-11ea-8bde-d427a6aa4e78" alt="Repository image" width="400"/>
     <br/>
     <br/>
     <details>
       <summary><b>Description and Features</b></summary>
-      <p>Sample event management application. Easy Spaces is a fictitious event management company. This application helps Easy Spaces event coordinators manage reservations and find the right theme for their customers. Regardless of the industry you work in, this app demonstrates how to build flexible, user-centric experiences with dynamic flows, Flow Actions, and object-agnostic Lightning components. This app also demonstrates how to structure your source code for modular distribution using unlocked packages.</p>
+      <p>Automation Components provides a set of reusable and production-ready extensions that include invocable actions, flow screen components and local actions. These are intended as an easy to install, easy to use toolbox.</p>
       <b>Features</b><br/>
       <p>
-        <code>Lightning Web Components</code>, <code>Unlocked packages</code>, <code>Modular app design</code>, <code>Object-agnostic components</code>, <code>Flow</code>, <code>Local Actions</code>, <code>Lightning Console</code>, <code>Lightning Console JavaScript APIs</code>
+        <code>Lightning Web Components</code>, <code>Flows</code>, <code>Invocable Action</code>, <code>Flow Screen Components</code>
       </p>
       <b>Trailhead Content</b><br/>
       <div>
-        <img src="https://res.cloudinary.com/hy4kyit2a/f_auto,fl_lossy,q_70,w_50/learn/projects/quick-start-explore-the-easyspaces-sample-app/84b2c4402906f1412160587d9f5c2e1e_badge.png" align="left" alt="Trailhead Badge"/>
-        <a href="https://trailhead.salesforce.com/content/learn/projects/quick-start-explore-the-easyspaces-sample-app">Quick Start: Explore the Easy Spaces Sample App</a>
+        <img src="https://res.cloudinary.com/hy4kyit2a/f_auto,fl_lossy,q_70,w_50/learn/projects/quick-start-explore-the-automation-comps-sample-app/22dec7d6cee3233fd30d1515dc0d850b_badge.png" align="left" alt="Trailhead Badge"/>
+        <a href="https://trailhead.salesforce.com/en/content/learn/projects/quick-start-explore-the-automation-comps-sample-app">Quick Start: Explore the Automation Components Sample App</a>
         <br/>
       </div>
     </details>
@@ -230,29 +230,5 @@
       </div>
     </details>
   </td>
-</tr>
-<tr>
-  <!-- Automation Components -->
-  <td valign="top">
-    <h2><a href="https://github.com/trailheadapps/automation-components">Automation Components</a></h2>
-    <img src="https://repository-images.githubusercontent.com/262042844/f2e5e500-99e3-11ea-8bde-d427a6aa4e78" alt="Repository image" width="400"/>
-    <br/>
-    <br/>
-    <details>
-      <summary><b>Description and Features</b></summary>
-      <p>Automation Components provides a set of reusable and production-ready extensions that include invocable actions, flow screen components and local actions. These are intended as an easy to install, easy to use toolbox.</p>
-      <b>Features</b><br/>
-      <p>
-        <code>Lightning Web Components</code>, <code>Flows</code>, <code>Invocable Action</code>, <code>Flow Screen Components</code>
-      </p>
-      <b>Trailhead Content</b><br/>
-      <div>
-        <img src="https://res.cloudinary.com/hy4kyit2a/f_auto,fl_lossy,q_70,w_50/learn/projects/quick-start-explore-the-automation-comps-sample-app/22dec7d6cee3233fd30d1515dc0d850b_badge.png" align="left" alt="Trailhead Badge"/>
-        <a href="https://trailhead.salesforce.com/en/content/learn/projects/quick-start-explore-the-automation-comps-sample-app">Quick Start: Explore the Automation Components Sample App</a>
-        <br/>
-      </div>
-    </details>
-  </td>
-  <td></td>
 </tr>
 </table>
