@@ -165,19 +165,25 @@
       </div>
     </details>
   </td>
-  <!-- Functions Recipes -->
+  <!-- LWC Recipes Open Source -->
   <td valign="top">
-    <h2><a href="https://github.com/trailheadapps/functions-recipes">Functions Recipes</a></h2>
-    <img src="https://repository-images.githubusercontent.com/379625965/5ae7af26-da3c-4b87-b636-bcb103029056" alt="Repository image" width="400"/>
+    <h2><a href="https://github.com/trailheadapps/lwc-recipes-oss">LWC Recipes Open Source</a></h2>
+    <img src="https://repository-images.githubusercontent.com/189253620/a51dac80-99e4-11ea-8a80-c7a460359165" alt="Repository image" width="400"/>
     <br/>
     <br/>
     <details>
       <summary><b>Description and Features</b></summary>
-      <p>A collection of easy-to-digest code examples for starting with Salesforce Functions in a variety of languages (JavaScript and Java). Salesforce Functions lets you use the Salesforce Platform for building event-driven, elastically scalable apps and experiences.</p>
+      <p>A collection of easy-to-digest code examples for Lightning Web Components running on the Lightning Web Runtime (LWR). Each recipe demonstrates how to code a specific task in about 30 lines of code or less. A View Source link takes you right to the code in GitHub. From Hello World to data access and third-party libraries, there is a recipe for that!</p>
       <b>Features</b><br/>
       <p>
-        <code>Salesforce Functions</code>, <code>Elastic Scale</code>, <code>Node.js</code>, <code>JavaScript</code>, <code>Java</code>, <code>3rd Party Libraries</code>
+        <code>Lightning Web Components</code>, <code>Lightning Web Runtime</code>, <code>Node.js</code>, <code>Events</code>, <code>@wire</code>, <code>3rd Party Libraries</code>
       </p>
+      <b>Trailhead Content</b><br/>
+      <div>
+        <img src="https://res.cloudinary.com/hy4kyit2a/f_auto,fl_lossy,q_70,w_50/learn/projects/quick-start-explore-the-lightning-web-components-oss-recipes-sample-app/03dd467f7c4e6358dd48d7ab3eb7240a_badge.png" align="left" alt="Trailhead Badge"/>
+        <a href="https://trailhead.salesforce.com/content/learn/projects/quick-start-explore-the-lightning-web-components-oss-recipes-sample-app">Quick Start: Explore the Lightning Web Components OSS Recipes Sample App</a>
+        <br/>
+      </div>
     </details>
   </td>
 </tr>
@@ -203,26 +209,7 @@
       </div>
     </details>
   </td>
-  <!-- LWC Recipes Open Source -->
-  <td valign="top">
-    <h2><a href="https://github.com/trailheadapps/lwc-recipes-oss">LWC Recipes Open Source</a></h2>
-    <img src="https://repository-images.githubusercontent.com/189253620/a51dac80-99e4-11ea-8a80-c7a460359165" alt="Repository image" width="400"/>
-    <br/>
-    <br/>
-    <details>
-      <summary><b>Description and Features</b></summary>
-      <p>A collection of easy-to-digest code examples for Lightning Web Components running on the Lightning Web Runtime (LWR). Each recipe demonstrates how to code a specific task in about 30 lines of code or less. A View Source link takes you right to the code in GitHub. From Hello World to data access and third-party libraries, there is a recipe for that!</p>
-      <b>Features</b><br/>
-      <p>
-        <code>Lightning Web Components</code>, <code>Lightning Web Runtime</code>, <code>Node.js</code>, <code>Events</code>, <code>@wire</code>, <code>3rd Party Libraries</code>
-      </p>
-      <b>Trailhead Content</b><br/>
-      <div>
-        <img src="https://res.cloudinary.com/hy4kyit2a/f_auto,fl_lossy,q_70,w_50/learn/projects/quick-start-explore-the-lightning-web-components-oss-recipes-sample-app/03dd467f7c4e6358dd48d7ab3eb7240a_badge.png" align="left" alt="Trailhead Badge"/>
-        <a href="https://trailhead.salesforce.com/content/learn/projects/quick-start-explore-the-lightning-web-components-oss-recipes-sample-app">Quick Start: Explore the Lightning Web Components OSS Recipes Sample App</a>
-        <br/>
-      </div>
-    </details>
-  </td>
+  <!-- Empty cell -->
+  <td>&nbsp;</td>
 </tr>
 </table>
