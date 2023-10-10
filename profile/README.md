@@ -124,7 +124,7 @@
   <!-- Visualforce to LWC -->
   <td valign="top">
     <h2><a href="https://github.com/trailheadapps/visualforce-to-lwc">Visualforce to LWC</a></h2>
-    <img src="https://repository-images.githubusercontent.com/272735494/8274c700-b068-11ea-9e3d-1442e064337e" alt="Repository image" width="400"/>
+    <img src="https://repository-images.githubusercontent.com/272735494/dec5e593-44f7-418e-8c64-c7fa7ce9a376" alt="Repository image" width="400"/>
     <br/>
     <br/>
     <details>
@@ -147,7 +147,7 @@
   <!-- Easy Spaces -->
   <td valign="top">
     <h2><a href="https://github.com/trailheadapps/easy-spaces-lwc">Easy Spaces</a></h2>
-    <img src="https://repository-images.githubusercontent.com/161492341/6f61f700-b068-11ea-95e4-3a455dd21cc8" alt="Repository image" width="400"/>
+    <img src="https://repository-images.githubusercontent.com/161492341/ca11d20b-1a4d-4fbc-bfe6-f3eb4f5a0b65" alt="Repository image" width="400"/>
     <br/>
     <br/>
     <details>
@@ -168,7 +168,7 @@
   <!-- LWC Recipes Open Source -->
   <td valign="top">
     <h2><a href="https://github.com/trailheadapps/lwc-recipes-oss">LWC Recipes Open Source</a></h2>
-    <img src="https://repository-images.githubusercontent.com/189253620/a51dac80-99e4-11ea-8a80-c7a460359165" alt="Repository image" width="400"/>
+    <img src="https://repository-images.githubusercontent.com/189253620/7c182a87-2d9f-415f-8a55-29ef8def5c2c" alt="Repository image" width="400"/>
     <br/>
     <br/>
     <details>
