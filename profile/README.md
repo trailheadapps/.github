@@ -1,4 +1,4 @@
-# Trailhead Sample Apps
+# Salesforce Developers Sample Apps
 
 <p>
   These sample apps show what you can build on the Salesforce platform and are continuously updated to incorporate the latest features and best practices. As reference apps, they are not intended for production, but are a great way to learn.
