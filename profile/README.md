@@ -35,6 +35,8 @@
       <p>
         <code>Lightning Web Components</code>, <code>Apex</code>, <code>Experience Cloud</code>, <code>Lightning Data Service</code>, <code>Lightning Message Service</code>, <code>UTAM tests</code>
       </p>
+      <b><a href="https://youtu.be/8iE-1q4N0P8?feature=shared">Video Overview</a></b>
+      <br/><br/>
       <b>Trailhead Content</b><br/>
       <div>
         <img src="https://res.cloudinary.com/hy4kyit2a/f_auto,fl_lossy,q_70,w_50/learn/projects/quick-start-ebikes-sample-app/a11bf85d136053cdb4745123c4d0ae61_badge.png" align="left" alt="Trailhead Badge"/>
@@ -56,6 +58,8 @@
       <p>
         <code>Lightning Web Components</code>, <code>Lightning Data Service</code>, <code>Lightning Message Service</code>, <code>Navigation</code>, <code>@wire</code>, <code>Composition</code>, <code>Events</code>, <code>3rd Party Libraries</code>
       </p>
+      <b><a href="https://youtu.be/lK3NOZGc5fg?feature=shared">Video Overview</a></b>
+      <br/><br/>
       <b>Trailhead Content</b><br/>
       <div>
         <img src="https://res.cloudinary.com/hy4kyit2a/f_auto,fl_lossy,q_70,w_50/learn/projects/quick-start-lwc-recipes-app/bb501c3216ac163958f036fb90357955_badge.png" align="left" alt="Trailhead Badge"/>
@@ -80,6 +84,8 @@
       <p>
         <code>Lightning Web Components</code>, <code>Lightning Data Service</code>, <code>Utility Bar</code>, <code>Map</code>, <code>Salesforce Mobile</code>
       </p>
+      <b><a href="https://youtu.be/UvUDi8acq2w?feature=shared">Video Overview</a></b>
+      <br/><br/>
       <b>Trailhead Content</b><br/>
       <div>
         <img src="https://res.cloudinary.com/hy4kyit2a/f_auto,fl_lossy,q_70,w_50/learn/projects/quick-start-dreamhouse-sample-app/17d9a9454cb84973b3adfe25e9f12b01_badge.png" align="left" alt="Trailhead Badge"/>
@@ -101,6 +107,8 @@
       <p>
         <code>Apex</code>, <code>Security</code>, <code>REST</code>, <code>Asynchronous Apex</code>, <code>Integrations</code>, <code>Triggers</code>, <code>Platform Events</code>, <code>Platform Cache</code>
       </p>
+      <b><a href="https://youtu.be/Fd0m1Cyaq4Q?feature=shared">Video Overview</a></b>
+      <br/><br/>
       <b>Trailhead Content</b><br/>
       <div>
         <img src="https://res.cloudinary.com/hy4kyit2a/f_auto,fl_lossy,q_70,w_50/learn/projects/quick-start-explore-the-apex-recipes-sample-app/185b61248727a9711d31e2f54b62e230_badge.png" align="left" alt="Trailhead Badge"/>
@@ -189,6 +197,8 @@
       <p>
         <code>Lightning Web Components</code>, <code>Lightning Web Runtime</code>, <code>Node.js</code>, <code>Events</code>, <code>@wire</code>, <code>3rd Party Libraries</code>
       </p>
+      <b><a href="https://youtu.be/4mXCLJm8KF4?feature=shared">Video Overview</a></b>
+      <br/><br/>
       <b>Trailhead Content</b><br/>
       <div>
         <img src="https://res.cloudinary.com/hy4kyit2a/f_auto,fl_lossy,q_70,w_50/learn/projects/quick-start-explore-the-lightning-web-components-oss-recipes-sample-app/03dd467f7c4e6358dd48d7ab3eb7240a_badge.png" align="left" alt="Trailhead Badge"/>
