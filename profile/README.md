@@ -67,44 +67,6 @@
   </td>
 </tr>
 <tr>
-  <!-- ECars -->
-  <td valign="top">
-    <h2><a href="https://github.com/trailheadapps/ecars">ECars</a></h2>
-    <img src="https://repository-images.githubusercontent.com/303733323/fd001c1f-4d11-4322-af1b-c337a79ae7f0" alt="Repository image" width="400"/>
-    <br/>
-    <br/>
-    <details>
-      <summary><b>Description and Features</b></summary>
-      <p>Sample car sales and service application. Pulsar is a fictitious electric car manufacturer company. This application helps Pulsar to sell cars on-site, and through their customer-facing website. Event-driven patterns allow to build loosely coupled integrations using multiple programming languages and systems. Regardless of the industry you work in, this app demonstrates how to build rich and immersive user experiences with the connected compute and runtime capabilities of the Salesforce Platform.</p>
-      <b>Features</b><br/>
-      <p>
-        <code>Lightning Web Components</code>, <code>Heroku</code>, <code>Kafka</code>, <code>MQTT</code>, <code>Change Data Capture</code>, <code>Progressive Web App</code>
-      </p>
-    </details>
-  </td>
-  <!-- Apex Recipes -->
-  <td valign="top">
-    <h2><a href="https://github.com/trailheadapps/apex-recipes">Apex Recipes</a></h2>
-    <img src="https://repository-images.githubusercontent.com/303731885/a11a6e80-0d79-11eb-82f7-250f255083ce" alt="Repository image" width="400"/>
-    <br/>
-    <br/>
-    <details>
-      <summary><b>Description and Features</b></summary>
-      <p>A collection of easy-to-digest code examples demonstrating Apex best practices. Each Recipe demonstrates how to code a specific common task while adhering to best practices. The UI allows you to browse the code, associated tests, and documentation about the recipes all in a convenient, in-org browser.</p>
-      <b>Features</b><br/>
-      <p>
-        <code>Apex</code>, <code>Security</code>, <code>REST</code>, <code>Asynchronous Apex</code>, <code>Integrations</code>, <code>Triggers</code>, <code>Platform Events</code>, <code>Platform Cache</code>
-      </p>
-      <b>Trailhead Content</b><br/>
-      <div>
-        <img src="https://res.cloudinary.com/hy4kyit2a/f_auto,fl_lossy,q_70,w_50/learn/projects/quick-start-explore-the-apex-recipes-sample-app/185b61248727a9711d31e2f54b62e230_badge.png" align="left" alt="Trailhead Badge"/>
-        <a href="https://trailhead.salesforce.com/content/learn/projects/quick-start-explore-the-apex-recipes-sample-app">Quick Start: Explore the Apex Recipes Sample App</a>
-        <br/>
-      </div>
-    </details>
-  </td>
-</tr>
-<tr>
   <!-- Dreamhouse -->
   <td valign="top">
     <h2><a href="https://github.com/trailheadapps/dreamhouse-lwc">Dreamhouse</a></h2>
@@ -126,23 +88,23 @@
       </div>
     </details>
   </td>
-  <!-- Visualforce to LWC -->
+  <!-- Apex Recipes -->
   <td valign="top">
-    <h2><a href="https://github.com/trailheadapps/visualforce-to-lwc">Visualforce to LWC</a></h2>
-    <img src="https://repository-images.githubusercontent.com/272735494/dec5e593-44f7-418e-8c64-c7fa7ce9a376" alt="Repository image" width="400"/>
+    <h2><a href="https://github.com/trailheadapps/apex-recipes">Apex Recipes</a></h2>
+    <img src="https://repository-images.githubusercontent.com/303731885/a11a6e80-0d79-11eb-82f7-250f255083ce" alt="Repository image" width="400"/>
     <br/>
     <br/>
     <details>
       <summary><b>Description and Features</b></summary>
-      <p>A collection of code examples to help you replace Visualforce pages with Lightning Web Components. Each example shows a typical Visualforce pattern and its equivalent LWC implementation. Each example also links right to the Visualforce or LWC code in GitHub.</p>
+      <p>A collection of easy-to-digest code examples demonstrating Apex best practices. Each Recipe demonstrates how to code a specific common task while adhering to best practices. The UI allows you to browse the code, associated tests, and documentation about the recipes all in a convenient, in-org browser.</p>
       <b>Features</b><br/>
       <p>
-        <code>Lightning Web Components</code>, <code>Visualforce</code>, <code>Base Components</code>, <code>Lightning Data Service</code>, <code>Apex</code>
+        <code>Apex</code>, <code>Security</code>, <code>REST</code>, <code>Asynchronous Apex</code>, <code>Integrations</code>, <code>Triggers</code>, <code>Platform Events</code>, <code>Platform Cache</code>
       </p>
       <b>Trailhead Content</b><br/>
       <div>
-        <img src="https://res.cloudinary.com/hy4kyit2a/f_auto,fl_lossy,q_70,w_50/learn/projects/quick-start-explore-the-visualforce-to-lwc-sample-app/077f3600722a0f141e0e868142bb0cb9_badge.png" align="left" alt="Trailhead Badge"/>
-        <a href="https://trailhead.salesforce.com/content/learn/projects/quick-start-explore-the-visualforce-to-lwc-sample-app">Quick Start: Explore the Visualforce to LWC Sample App</a>
+        <img src="https://res.cloudinary.com/hy4kyit2a/f_auto,fl_lossy,q_70,w_50/learn/projects/quick-start-explore-the-apex-recipes-sample-app/185b61248727a9711d31e2f54b62e230_badge.png" align="left" alt="Trailhead Badge"/>
+        <a href="https://trailhead.salesforce.com/content/learn/projects/quick-start-explore-the-apex-recipes-sample-app">Quick Start: Explore the Apex Recipes Sample App</a>
         <br/>
       </div>
     </details>
@@ -170,23 +132,23 @@
       </div>
     </details>
   </td>
-  <!-- LWC Recipes Open Source -->
+  <!-- Visualforce to LWC -->
   <td valign="top">
-    <h2><a href="https://github.com/trailheadapps/lwc-recipes-oss">LWC Recipes Open Source</a></h2>
-    <img src="https://repository-images.githubusercontent.com/189253620/7c182a87-2d9f-415f-8a55-29ef8def5c2c" alt="Repository image" width="400"/>
+    <h2><a href="https://github.com/trailheadapps/visualforce-to-lwc">Visualforce to LWC</a></h2>
+    <img src="https://repository-images.githubusercontent.com/272735494/dec5e593-44f7-418e-8c64-c7fa7ce9a376" alt="Repository image" width="400"/>
     <br/>
     <br/>
     <details>
       <summary><b>Description and Features</b></summary>
-      <p>A collection of easy-to-digest code examples for Lightning Web Components running on the Lightning Web Runtime (LWR). Each recipe demonstrates how to code a specific task in about 30 lines of code or less. A View Source link takes you right to the code in GitHub. From Hello World to data access and third-party libraries, there is a recipe for that!</p>
+      <p>A collection of code examples to help you replace Visualforce pages with Lightning Web Components. Each example shows a typical Visualforce pattern and its equivalent LWC implementation. Each example also links right to the Visualforce or LWC code in GitHub.</p>
       <b>Features</b><br/>
       <p>
-        <code>Lightning Web Components</code>, <code>Lightning Web Runtime</code>, <code>Node.js</code>, <code>Events</code>, <code>@wire</code>, <code>3rd Party Libraries</code>
+        <code>Lightning Web Components</code>, <code>Visualforce</code>, <code>Base Components</code>, <code>Lightning Data Service</code>, <code>Apex</code>
       </p>
       <b>Trailhead Content</b><br/>
       <div>
-        <img src="https://res.cloudinary.com/hy4kyit2a/f_auto,fl_lossy,q_70,w_50/learn/projects/quick-start-explore-the-lightning-web-components-oss-recipes-sample-app/03dd467f7c4e6358dd48d7ab3eb7240a_badge.png" align="left" alt="Trailhead Badge"/>
-        <a href="https://trailhead.salesforce.com/content/learn/projects/quick-start-explore-the-lightning-web-components-oss-recipes-sample-app">Quick Start: Explore the Lightning Web Components OSS Recipes Sample App</a>
+        <img src="https://res.cloudinary.com/hy4kyit2a/f_auto,fl_lossy,q_70,w_50/learn/projects/quick-start-explore-the-visualforce-to-lwc-sample-app/077f3600722a0f141e0e868142bb0cb9_badge.png" align="left" alt="Trailhead Badge"/>
+        <a href="https://trailhead.salesforce.com/content/learn/projects/quick-start-explore-the-visualforce-to-lwc-sample-app">Quick Start: Explore the Visualforce to LWC Sample App</a>
         <br/>
       </div>
     </details>
@@ -214,7 +176,26 @@
       </div>
     </details>
   </td>
-  <!-- Empty cell -->
-  <td>&nbsp;</td>
+  <!-- LWC Recipes Open Source -->
+  <td valign="top">
+    <h2><a href="https://github.com/trailheadapps/lwc-recipes-oss">LWC Recipes Open Source</a></h2>
+    <img src="https://repository-images.githubusercontent.com/189253620/7c182a87-2d9f-415f-8a55-29ef8def5c2c" alt="Repository image" width="400"/>
+    <br/>
+    <br/>
+    <details>
+      <summary><b>Description and Features</b></summary>
+      <p>A collection of easy-to-digest code examples for Lightning Web Components running on the Lightning Web Runtime (LWR). Each recipe demonstrates how to code a specific task in about 30 lines of code or less. A View Source link takes you right to the code in GitHub. From Hello World to data access and third-party libraries, there is a recipe for that!</p>
+      <b>Features</b><br/>
+      <p>
+        <code>Lightning Web Components</code>, <code>Lightning Web Runtime</code>, <code>Node.js</code>, <code>Events</code>, <code>@wire</code>, <code>3rd Party Libraries</code>
+      </p>
+      <b>Trailhead Content</b><br/>
+      <div>
+        <img src="https://res.cloudinary.com/hy4kyit2a/f_auto,fl_lossy,q_70,w_50/learn/projects/quick-start-explore-the-lightning-web-components-oss-recipes-sample-app/03dd467f7c4e6358dd48d7ab3eb7240a_badge.png" align="left" alt="Trailhead Badge"/>
+        <a href="https://trailhead.salesforce.com/content/learn/projects/quick-start-explore-the-lightning-web-components-oss-recipes-sample-app">Quick Start: Explore the Lightning Web Components OSS Recipes Sample App</a>
+        <br/>
+      </div>
+    </details>
+  </td>
 </tr>
 </table>
