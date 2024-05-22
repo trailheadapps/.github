@@ -29,7 +29,7 @@
     <br/>
     <br/>
     <details>
-      <summary><b>Description and Features</b></summary>
+      <summary><b>📕 Description and Features</b></summary>
       <p>Sample retail application. This application helps E-Bikes, a fictitious electric bicycle manufacturer, manage their products and reseller orders using a rich User Experience. Explore this application, that also integrates with Experience Cloud, and learn how to build rich User Experiences with Lightning Web Components using different data access strategies.</p>
       <b>Features</b><br/>
       <p>
@@ -50,7 +50,7 @@
     <br/>
     <br/>
     <details>
-      <summary><b>Description and Features</b></summary>
+      <summary><b>📕 Description and Features</b></summary>
       <p>A collection of easy-to-digest code examples for Lightning Web Components. Each recipe demonstrates how to code a specific task in the fewest lines of code possible, while following best practices. A View Source link takes you right to the code in GitHub. From Hello World to data access and third-party libraries, there is a recipe for that!</p>
       <b>Features</b><br/>
       <p>
@@ -74,7 +74,7 @@
     <br/>
     <br/>
     <details>
-      <summary><b>Description and Features</b></summary>
+      <summary><b>📕 Description and Features</b></summary>
       <p>Sample real estate application. Dreamhouse is a fictitious real estate company. This application helps Dreamhouse brokers manage their properties and their customers. Brokers can also use the application on the Salesforce mobile app to help manage their property portfolio. Regardless of the industry you work in, this app demonstrates how to build rich and immersive user experiences with Lightning Components.</p>
       <b>Features</b><br/>
       <p>
@@ -95,7 +95,7 @@
     <br/>
     <br/>
     <details>
-      <summary><b>Description and Features</b></summary>
+      <summary><b>📕 Description and Features</b></summary>
       <p>A collection of easy-to-digest code examples demonstrating Apex best practices. Each Recipe demonstrates how to code a specific common task while adhering to best practices. The UI allows you to browse the code, associated tests, and documentation about the recipes all in a convenient, in-org browser.</p>
       <b>Features</b><br/>
       <p>
@@ -118,7 +118,7 @@
     <br/>
     <br/>
     <details>
-      <summary><b>Description and Features</b></summary>
+      <summary><b>📕 Description and Features</b></summary>
       <p>Sample event management application. Easy Spaces is a fictitious event management company. This application helps Easy Spaces event coordinators manage reservations and find the right theme for their customers. Regardless of the industry you work in, this app demonstrates how to build flexible, user-centric experiences with dynamic flows, Flow Actions, and object-agnostic Lightning components. This app also demonstrates how to structure your source code for modular distribution using unlocked packages.</p>
       <b>Features</b><br/>
       <p>
@@ -139,7 +139,7 @@
     <br/>
     <br/>
     <details>
-      <summary><b>Description and Features</b></summary>
+      <summary><b>📕 Description and Features</b></summary>
       <p>A collection of code examples to help you replace Visualforce pages with Lightning Web Components. Each example shows a typical Visualforce pattern and its equivalent LWC implementation. Each example also links right to the Visualforce or LWC code in GitHub.</p>
       <b>Features</b><br/>
       <p>
@@ -162,7 +162,7 @@
     <br/>
     <br/>
     <details>
-      <summary><b>Description and Features</b></summary>
+      <summary><b>📕 Description and Features</b></summary>
       <p>Automation Components provides a set of reusable and production-ready extensions that include invocable actions, flow screen components and local actions. These are intended as an easy to install, easy to use toolbox.</p>
       <b>Features</b><br/>
       <p>
@@ -183,7 +183,7 @@
     <br/>
     <br/>
     <details>
-      <summary><b>Description and Features</b></summary>
+      <summary><b>📕 Description and Features</b></summary>
       <p>A collection of easy-to-digest code examples for Lightning Web Components running on the Lightning Web Runtime (LWR). Each recipe demonstrates how to code a specific task in about 30 lines of code or less. A View Source link takes you right to the code in GitHub. From Hello World to data access and third-party libraries, there is a recipe for that!</p>
       <b>Features</b><br/>
       <p>
