@@ -2,10 +2,10 @@
 
 <p>
   These sample apps show what you can build on the Salesforce platform and are continuously updated to incorporate the latest features and best practices. As reference apps, they are not intended for production, but are a great way to learn.
-</p> 
+</p>
 
 <p>
-  Brought to you by the <a href="https://developer.salesforce.com">Salesforce Developers</a> team!
+  Brought to you with 💙 by the <a href="https://developer.salesforce.com">Salesforce Developers</a> team!
 </p>
 
 <div>
@@ -22,25 +22,24 @@
 
 <table>
 <tr>
-  <!-- E-Bikes -->
+  <!-- Coral Cloud -->
   <td width="50%" valign="top">
-    <h2><a href="https://github.com/trailheadapps/ebikes-lwc">E-Bikes</a></h2>
-    <img src="https://repository-images.githubusercontent.com/161484161/a8656800-99e5-11ea-8897-3468b6e74197" alt="Repository image" width="400"/>
+    <h2><a href="https://github.com/trailheadapps/coral-cloud">Coral Cloud</a></h2>
+    <img src="https://repository-images.githubusercontent.com/857598583/e17d32b9-9b0a-4ad7-a174-f2dd944d2e92" alt="Repository image" width="400"/>
     <br/>
     <br/>
     <details>
       <summary><b>📕 Description and Features</b></summary>
-      <p>Sample retail application. This application helps E-Bikes, a fictitious electric bicycle manufacturer, manage their products and reseller orders using a rich User Experience. Explore this application, that also integrates with Experience Cloud, and learn how to build rich User Experiences with Lightning Web Components using different data access strategies.</p>
+      <p>Sample hospitality application that showcases Coral Cloud Resorts, a fictional resort that uses data and AI to deliver highly personalized guest experiences. It presents different ways and benefits of bringing generative AI into business workflows, including new smart automation capabilities, content generation, and summarization.</p>
       <b>Features</b><br/>
       <p>
-        <code>Lightning Web Components</code>, <code>Apex</code>, <code>Experience Cloud</code>, <code>Lightning Data Service</code>, <code>Lightning Message Service</code>, <code>UTAM tests</code>
+        <code>Data Cloud</code>, <code>Agents</code>, <code>Prompts</code>
       </p>
-      <b><a href="https://youtu.be/8iE-1q4N0P8?feature=shared">Video Overview</a></b>
       <br/><br/>
       <b>Trailhead Content</b><br/>
       <div>
-        <img src="https://res.cloudinary.com/hy4kyit2a/f_auto,fl_lossy,q_70,w_50/learn/projects/quick-start-ebikes-sample-app/a11bf85d136053cdb4745123c4d0ae61_badge.png" align="left" alt="Trailhead Badge"/>
-        <a href="https://trailhead.salesforce.com/en/content/learn/projects/quick-start-ebikes-sample-app">Quick Start: Explore the E-Bikes Sample App</a>
+        <img src="https://res.cloudinary.com/hy4kyit2a/f_auto,fl_lossy,q_70,w_50/learn/projects/quick-start-explore-the-coral-cloud-sample-app/1a059541a60d078109227d8f3a83404a_badge.png" align="left" alt="Trailhead Badge"/>
+        <a href="https://trailhead.salesforce.com/content/learn/projects/quick-start-explore-the-coral-cloud-sample-app">Quick Start: Explore the Coral Cloud Sample App</a>
         <br/>
       </div>
     </details>
@@ -71,25 +70,25 @@
   </td>
 </tr>
 <tr>
-  <!-- Dreamhouse -->
-  <td valign="top">
-    <h2><a href="https://github.com/trailheadapps/dreamhouse-lwc">Dreamhouse</a></h2>
-    <img src="https://repository-images.githubusercontent.com/161481406/87057b80-99e7-11ea-8731-13a8b65a3860" alt="Repository image" width="400"/>
+  <!-- E-Bikes -->
+  <td width="50%" valign="top">
+    <h2><a href="https://github.com/trailheadapps/ebikes-lwc">E-Bikes</a></h2>
+    <img src="https://repository-images.githubusercontent.com/161484161/a8656800-99e5-11ea-8897-3468b6e74197" alt="Repository image" width="400"/>
     <br/>
     <br/>
     <details>
       <summary><b>📕 Description and Features</b></summary>
-      <p>Sample real estate application. Dreamhouse is a fictitious real estate company. This application helps Dreamhouse brokers manage their properties and their customers. Brokers can also use the application on the Salesforce mobile app to help manage their property portfolio. Regardless of the industry you work in, this app demonstrates how to build rich and immersive user experiences with Lightning Components.</p>
+      <p>Sample retail application. This application helps E-Bikes, a fictitious electric bicycle manufacturer, manage their products and reseller orders using a rich User Experience. Explore this application, that also integrates with Experience Cloud, and learn how to build rich User Experiences with Lightning Web Components using different data access strategies.</p>
       <b>Features</b><br/>
       <p>
-        <code>Lightning Web Components</code>, <code>Lightning Data Service</code>, <code>Utility Bar</code>, <code>Map</code>, <code>Salesforce Mobile</code>
+        <code>Lightning Web Components</code>, <code>Apex</code>, <code>Experience Cloud</code>, <code>Lightning Data Service</code>, <code>Lightning Message Service</code>, <code>UTAM tests</code>
       </p>
-      <b><a href="https://youtu.be/UvUDi8acq2w?feature=shared">Video Overview</a></b>
+      <b><a href="https://youtu.be/8iE-1q4N0P8?feature=shared">Video Overview</a></b>
       <br/><br/>
       <b>Trailhead Content</b><br/>
       <div>
-        <img src="https://res.cloudinary.com/hy4kyit2a/f_auto,fl_lossy,q_70,w_50/learn/projects/quick-start-dreamhouse-sample-app/17d9a9454cb84973b3adfe25e9f12b01_badge.png" align="left" alt="Trailhead Badge"/>
-        <a href="https://trailhead.salesforce.com/content/learn/projects/quick-start-dreamhouse-sample-app">Quick Start: Explore the Dreamhouse Sample App</a>
+        <img src="https://res.cloudinary.com/hy4kyit2a/f_auto,fl_lossy,q_70,w_50/learn/projects/quick-start-ebikes-sample-app/a11bf85d136053cdb4745123c4d0ae61_badge.png" align="left" alt="Trailhead Badge"/>
+        <a href="https://trailhead.salesforce.com/en/content/learn/projects/quick-start-ebikes-sample-app">Quick Start: Explore the E-Bikes Sample App</a>
         <br/>
       </div>
     </details>
@@ -119,28 +118,30 @@
   </td>
 </tr>
 <tr>
-  <!-- Easy Spaces -->
+<!-- Dreamhouse -->
   <td valign="top">
-    <h2><a href="https://github.com/trailheadapps/easy-spaces-lwc">Easy Spaces</a></h2>
-    <img src="https://repository-images.githubusercontent.com/161492341/ca11d20b-1a4d-4fbc-bfe6-f3eb4f5a0b65" alt="Repository image" width="400"/>
+    <h2><a href="https://github.com/trailheadapps/dreamhouse-lwc">Dreamhouse</a></h2>
+    <img src="https://repository-images.githubusercontent.com/161481406/87057b80-99e7-11ea-8731-13a8b65a3860" alt="Repository image" width="400"/>
     <br/>
     <br/>
     <details>
       <summary><b>📕 Description and Features</b></summary>
-      <p>Sample event management application. Easy Spaces is a fictitious event management company. This application helps Easy Spaces event coordinators manage reservations and find the right theme for their customers. Regardless of the industry you work in, this app demonstrates how to build flexible, user-centric experiences with dynamic flows, Flow Actions, and object-agnostic Lightning components. This app also demonstrates how to structure your source code for modular distribution using unlocked packages.</p>
+      <p>Sample real estate application. Dreamhouse is a fictitious real estate company. This application helps Dreamhouse brokers manage their properties and their customers. Brokers can also use the application on the Salesforce mobile app to help manage their property portfolio. Regardless of the industry you work in, this app demonstrates how to build rich and immersive user experiences with Lightning Components.</p>
       <b>Features</b><br/>
       <p>
-        <code>Lightning Web Components</code>, <code>Unlocked packages</code>, <code>Modular app design</code>, <code>Object-agnostic components</code>, <code>Flow</code>, <code>Local Actions</code>, <code>Lightning Console</code>, <code>Lightning Console JavaScript APIs</code>
+        <code>Lightning Web Components</code>, <code>Lightning Data Service</code>, <code>Utility Bar</code>, <code>Map</code>, <code>Salesforce Mobile</code>
       </p>
+      <b><a href="https://youtu.be/UvUDi8acq2w?feature=shared">Video Overview</a></b>
+      <br/><br/>
       <b>Trailhead Content</b><br/>
       <div>
-        <img src="https://res.cloudinary.com/hy4kyit2a/f_auto,fl_lossy,q_70,w_50/learn/projects/quick-start-explore-the-easyspaces-sample-app/84b2c4402906f1412160587d9f5c2e1e_badge.png" align="left" alt="Trailhead Badge"/>
-        <a href="https://trailhead.salesforce.com/content/learn/projects/quick-start-explore-the-easyspaces-sample-app">Quick Start: Explore the Easy Spaces Sample App</a>
+        <img src="https://res.cloudinary.com/hy4kyit2a/f_auto,fl_lossy,q_70,w_50/learn/projects/quick-start-dreamhouse-sample-app/17d9a9454cb84973b3adfe25e9f12b01_badge.png" align="left" alt="Trailhead Badge"/>
+        <a href="https://trailhead.salesforce.com/content/learn/projects/quick-start-dreamhouse-sample-app">Quick Start: Explore the Dreamhouse Sample App</a>
         <br/>
       </div>
     </details>
   </td>
-  <!-- Visualforce to LWC -->
+<!-- Visualforce to LWC -->
   <td valign="top">
     <h2><a href="https://github.com/trailheadapps/visualforce-to-lwc">Visualforce to LWC</a></h2>
     <img src="https://repository-images.githubusercontent.com/272735494/dec5e593-44f7-418e-8c64-c7fa7ce9a376" alt="Repository image" width="400"/>
@@ -163,6 +164,27 @@
   </td>
 </tr>
 <tr>
+  <!-- Easy Spaces -->
+  <td valign="top">
+    <h2><a href="https://github.com/trailheadapps/easy-spaces-lwc">Easy Spaces</a></h2>
+    <img src="https://repository-images.githubusercontent.com/161492341/ca11d20b-1a4d-4fbc-bfe6-f3eb4f5a0b65" alt="Repository image" width="400"/>
+    <br/>
+    <br/>
+    <details>
+      <summary><b>📕 Description and Features</b></summary>
+      <p>Sample event management application. Easy Spaces is a fictitious event management company. This application helps Easy Spaces event coordinators manage reservations and find the right theme for their customers. Regardless of the industry you work in, this app demonstrates how to build flexible, user-centric experiences with dynamic flows, Flow Actions, and object-agnostic Lightning components. This app also demonstrates how to structure your source code for modular distribution using unlocked packages.</p>
+      <b>Features</b><br/>
+      <p>
+        <code>Lightning Web Components</code>, <code>Unlocked packages</code>, <code>Modular app design</code>, <code>Object-agnostic components</code>, <code>Flow</code>, <code>Local Actions</code>, <code>Lightning Console</code>, <code>Lightning Console JavaScript APIs</code>
+      </p>
+      <b>Trailhead Content</b><br/>
+      <div>
+        <img src="https://res.cloudinary.com/hy4kyit2a/f_auto,fl_lossy,q_70,w_50/learn/projects/quick-start-explore-the-easyspaces-sample-app/84b2c4402906f1412160587d9f5c2e1e_badge.png" align="left" alt="Trailhead Badge"/>
+        <a href="https://trailhead.salesforce.com/content/learn/projects/quick-start-explore-the-easyspaces-sample-app">Quick Start: Explore the Easy Spaces Sample App</a>
+        <br/>
+      </div>
+    </details>
+  </td>
   <!-- Automation Components -->
   <td valign="top">
     <h2><a href="https://github.com/trailheadapps/automation-components">Automation Components</a></h2>
@@ -184,6 +206,8 @@
       </div>
     </details>
   </td>
+</tr>
+<tr>
   <!-- LWC Recipes Open Source -->
   <td valign="top">
     <h2><a href="https://github.com/trailheadapps/lwc-recipes-oss">LWC Recipes Open Source</a></h2>
@@ -207,5 +231,6 @@
       </div>
     </details>
   </td>
+  <td></td>
 </tr>
 </table>
