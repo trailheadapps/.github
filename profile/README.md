@@ -35,6 +35,7 @@
       <p>
         <code>Data Cloud</code>, <code>Agents</code>, <code>Prompts</code>
       </p>
+      <b><a href="https://youtu.be/lK3NOZGc5fg?feature=shared">Video Overview</a></b>
       <br/><br/>
       <b>Trailhead Content</b><br/>
       <div>
