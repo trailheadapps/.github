@@ -165,23 +165,25 @@
   </td>
 </tr>
 <tr>
-  <!-- Easy Spaces -->
+  <!-- LWC Recipes Open Source -->
   <td valign="top">
-    <h2><a href="https://github.com/trailheadapps/easy-spaces-lwc">Easy Spaces</a></h2>
-    <img src="https://repository-images.githubusercontent.com/161492341/ca11d20b-1a4d-4fbc-bfe6-f3eb4f5a0b65" alt="Repository image" width="400"/>
+    <h2><a href="https://github.com/trailheadapps/lwc-recipes-oss">LWC Recipes Open Source</a></h2>
+    <img src="https://repository-images.githubusercontent.com/189253620/7c182a87-2d9f-415f-8a55-29ef8def5c2c" alt="Repository image" width="400"/>
     <br/>
     <br/>
     <details>
       <summary><b>📕 Description and Features</b></summary>
-      <p>Sample event management application. Easy Spaces is a fictitious event management company. This application helps Easy Spaces event coordinators manage reservations and find the right theme for their customers. Regardless of the industry you work in, this app demonstrates how to build flexible, user-centric experiences with dynamic flows, Flow Actions, and object-agnostic Lightning components. This app also demonstrates how to structure your source code for modular distribution using unlocked packages.</p>
+      <p>A collection of easy-to-digest code examples for Lightning Web Components running on the Lightning Web Runtime (LWR). Each recipe demonstrates how to code a specific task in about 30 lines of code or less. A View Source link takes you right to the code in GitHub. From Hello World to data access and third-party libraries, there is a recipe for that!</p>
       <b>Features</b><br/>
       <p>
-        <code>Lightning Web Components</code>, <code>Unlocked packages</code>, <code>Modular app design</code>, <code>Object-agnostic components</code>, <code>Flow</code>, <code>Local Actions</code>, <code>Lightning Console</code>, <code>Lightning Console JavaScript APIs</code>
+        <code>Lightning Web Components</code>, <code>Lightning Web Runtime</code>, <code>Node.js</code>, <code>Events</code>, <code>@wire</code>, <code>3rd Party Libraries</code>
       </p>
+      <b><a href="https://youtu.be/4mXCLJm8KF4?feature=shared">Video Overview</a></b>
+      <br/><br/>
       <b>Trailhead Content</b><br/>
       <div>
-        <img src="https://res.cloudinary.com/hy4kyit2a/f_auto,fl_lossy,q_70,w_50/learn/projects/quick-start-explore-the-easyspaces-sample-app/84b2c4402906f1412160587d9f5c2e1e_badge.png" align="left" alt="Trailhead Badge"/>
-        <a href="https://trailhead.salesforce.com/content/learn/projects/quick-start-explore-the-easyspaces-sample-app">Quick Start: Explore the Easy Spaces Sample App</a>
+        <img src="https://res.cloudinary.com/hy4kyit2a/f_auto,fl_lossy,q_70,w_50/learn/projects/quick-start-explore-the-lightning-web-components-oss-recipes-sample-app/03dd467f7c4e6358dd48d7ab3eb7240a_badge.png" align="left" alt="Trailhead Badge"/>
+        <a href="https://trailhead.salesforce.com/content/learn/projects/quick-start-explore-the-lightning-web-components-oss-recipes-sample-app">Quick Start: Explore the Lightning Web Components OSS Recipes Sample App</a>
         <br/>
       </div>
     </details>
@@ -207,31 +209,5 @@
       </div>
     </details>
   </td>
-</tr>
-<tr>
-  <!-- LWC Recipes Open Source -->
-  <td valign="top">
-    <h2><a href="https://github.com/trailheadapps/lwc-recipes-oss">LWC Recipes Open Source</a></h2>
-    <img src="https://repository-images.githubusercontent.com/189253620/7c182a87-2d9f-415f-8a55-29ef8def5c2c" alt="Repository image" width="400"/>
-    <br/>
-    <br/>
-    <details>
-      <summary><b>📕 Description and Features</b></summary>
-      <p>A collection of easy-to-digest code examples for Lightning Web Components running on the Lightning Web Runtime (LWR). Each recipe demonstrates how to code a specific task in about 30 lines of code or less. A View Source link takes you right to the code in GitHub. From Hello World to data access and third-party libraries, there is a recipe for that!</p>
-      <b>Features</b><br/>
-      <p>
-        <code>Lightning Web Components</code>, <code>Lightning Web Runtime</code>, <code>Node.js</code>, <code>Events</code>, <code>@wire</code>, <code>3rd Party Libraries</code>
-      </p>
-      <b><a href="https://youtu.be/4mXCLJm8KF4?feature=shared">Video Overview</a></b>
-      <br/><br/>
-      <b>Trailhead Content</b><br/>
-      <div>
-        <img src="https://res.cloudinary.com/hy4kyit2a/f_auto,fl_lossy,q_70,w_50/learn/projects/quick-start-explore-the-lightning-web-components-oss-recipes-sample-app/03dd467f7c4e6358dd48d7ab3eb7240a_badge.png" align="left" alt="Trailhead Badge"/>
-        <a href="https://trailhead.salesforce.com/content/learn/projects/quick-start-explore-the-lightning-web-components-oss-recipes-sample-app">Quick Start: Explore the Lightning Web Components OSS Recipes Sample App</a>
-        <br/>
-      </div>
-    </details>
-  </td>
-  <td></td>
 </tr>
 </table>
