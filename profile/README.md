@@ -22,6 +22,38 @@
 
 <table>
 <tr>
+  <!-- Multi-Framework Recipes -->
+  <td width="50%" valign="top">
+    <h2><a href="https://github.com/trailheadapps/multiframework-recipes">Multi-Framework Recipes</a></h2>
+    <img src="https://repository-images.githubusercontent.com/1208000627/972f4504-ad9f-4b28-a9b1-ddb12f784bd3" alt="Repository image" width="400"/>
+    <br/>
+    <br/>
+    <details>
+      <summary><b>📕 Description and Features</b></summary>
+      <p>A collection of easy-to-digest code examples for building modern web apps on Salesforce. Each recipe demonstrates how to accomplish a specific task in the fewest lines of code possible while following best practices. From "Hello World" to data access to styling, the examples cover the full range of what you need to get started.</p>
+      <b>Features</b><br/>
+      <p>
+        <code>Salesforce Multi-Framework</code>, <code>Node.js</code>, <code>3rd Party Libraries</code>
+      </p>
+    </details>
+  </td>
+  <!-- Agent Script Recipes -->
+  <td valign="top">
+    <h2><a href="https://github.com/trailheadapps/agent-script-recipes">Agent Script Recipes</a></h2>
+    <img src="https://repository-images.githubusercontent.com/1112387831/d5ad64d5-3b94-48b0-b4ca-5a308ab7e567" alt="Repository image" width="400"/>
+    <br/>
+    <br/>
+    <details>
+      <summary><b>📕 Description and Features</b></summary>
+      <p>A collection of 20+ practical scripting examples for building powerful, autonomous agents. The recipes show how to combine deterministic logic with LLM reasoning, configure actions, manage state, and implement key agent capabilities—from natural language understanding to tool integration and decision-making.</p>
+      <b>Features</b><br/>
+      <p>
+        <code>Agentforce Builder</code>, <code>Agent Script</code>, <code>Prompt Builder</code>
+      </p>
+    </details>
+  </td>
+</tr>
+<tr>
   <!-- Coral Cloud -->
   <td width="50%" valign="top">
     <h2><a href="https://github.com/trailheadapps/coral-cloud">Coral Cloud</a></h2>
